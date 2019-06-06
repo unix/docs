@@ -30,7 +30,9 @@ const makeSubcatalog = async () => {
   await Promise.all(names.map(async name => {
     const subPath = getDirPath(name)
     const files = await fs.readdir(subPath)
-    const docFiles = files.filter(item => item.endsWith('.json') && item !== 'catalog.json')
+    const docFiles = files
+      .filter(item => item.endsWith('.json') && item !== 'catalog.json')
+      .map(item => item.replace('.json', ''))
     const catalog = {
       files: docFiles,
     }

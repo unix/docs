@@ -1,0 +1,6 @@
+{
+  "main": "https://vuepress.vuejs.org/",
+  "repo": "https://github.com/vuejs/vuepress",
+  "config": "https://vuepress.vuejs.org/config/",
+  "awesome": "https://github.com/ulivz/awesome-vuepress"
+}

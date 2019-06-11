@@ -1,7 +1,7 @@
 {
   "main": "https://redux.js.org/",
   "repo": "https://www.github.com/reduxjs/redux",
-  "examples": "https://github.com/reduxjs/redux/tree/master/examples",
+  "demos": "https://github.com/reduxjs/redux/tree/master/examples",
   "getting started": "https://www.valentinog.com/blog/redux/",
   "learn redux": "https://egghead.io/courses/getting-started-with-redux"
 }

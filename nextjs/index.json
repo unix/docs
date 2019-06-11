@@ -1,0 +1,8 @@
+{
+  "main": "https://nextjs.org/docs",
+  "learn nextjs": "https://nextjs.org/learn/basics/getting-started",
+  "repo": "https://github.com/zeit/next.js",
+  "demos": "https://github.com/zeit/next.js/tree/canary/examples",
+  "deploy nextjs": "https://zeit.co/guides/deploying-nextjs-with-now",
+  "saidhayani blog": "https://www.freecodecamp.org/news/an-introduction-to-next-js-for-everyone-507d2d90ab54/"
+}

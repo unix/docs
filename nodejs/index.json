@@ -1,0 +1,8 @@
+{
+  "main": "https://nodejs.org/dist/latest-v10.x/docs/api/",
+  "repo": "https://github.com/nodejs/node",
+  "learn nodejs": "https://www.w3schools.com/nodejs/",
+  "nodeschool": "https://nodeschool.io/",
+  "why nodejs": "https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js",
+  "demos": "https://openclassrooms.com/en/courses/2504541-ultra-fast-applications-using-node-js/2504972-creating-your-first-app-with-node-js"
+}

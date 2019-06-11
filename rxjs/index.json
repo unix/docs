@@ -1,0 +1,8 @@
+{
+  "main": "https://rxjs-dev.firebaseapp.com/guide/overview",
+  "repo": "https://github.com/ReactiveX/rxjs",
+  "what is rxjs": "https://dev.to/sagar/reactive-programming-in-javascript-with-rxjs-4jom",
+  "learn rxjs": "https://www.learnrxjs.io/",
+  "rxjs in angular": "https://angular.io/guide/rx-library",
+  "quick start": "https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/#1-What-is-RxJS"
+}

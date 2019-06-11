@@ -2,9 +2,8 @@ const fs = require('fs-extra')
 const { join } = require('path')
 
 const getDirPath = name => join(__dirname, name)
-const getCatalogFilePath = () => join(__dirname, 'catalog.json')
-const getSubcatalogFilePath = name => join(__dirname, name, 'catalog.json')
-const stringify = json => JSON.stringify(json, null, 2)
+const getCatalogFilePath = () => join(__dirname, '_catalog.json')
+const getSubcatalogFilePath = name => join(__dirname, name, '_catalog.json')
 
 let modulesCache = []
 const getModules = async () => {
@@ -31,7 +30,7 @@ const makeSubcatalog = async () => {
     const subPath = getDirPath(name)
     const files = await fs.readdir(subPath)
     const docFiles = files
-      .filter(item => item.endsWith('.json') && item !== 'catalog.json')
+      .filter(item => item.endsWith('.json') && item !== '_catalog.json')
       .map(item => item.replace('.json', ''))
     const catalog = {
       files: docFiles,

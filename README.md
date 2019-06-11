@@ -35,7 +35,7 @@ npm i -g docs
   You can contribute new documents through `issue` or `pull request`, but the following points should be noted:
   
   - Don't append mirror sites
-  - Don't modify file `catalog.json` (`catalog.json` is automatically generated)
+  - Don't modify file `_catalog.json` (`_catalog.json` is automatically generated)
   - It's only about programming
 
 ## LICENSE

@@ -1,5 +1,6 @@
 {
   "files": [
+    "catalog",
     "index",
     "router"
   ]

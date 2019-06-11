@@ -1,0 +1,9 @@
+{
+  "files": [
+    "catalog",
+    "cli",
+    "index",
+    "router",
+    "vuepress"
+  ]
+}

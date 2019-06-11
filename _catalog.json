@@ -1,6 +1,9 @@
 {
   "modules": [
+    "angular",
+    "nextjs",
     "react",
+    "rxjs",
     "vue"
   ]
 }

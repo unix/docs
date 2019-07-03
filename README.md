@@ -28,7 +28,7 @@ npm i -g docs
   
   There are no superfluous command, just find the document for you.
   
-  And everyone is welcome to contribute [new documents](https://github.com/wittbulter/docs/issue/new).
+  And everyone is welcome to contribute [new documents](https://github.com/unix/docs/issue/new).
   
 ## Contribution
 

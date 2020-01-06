@@ -5,7 +5,8 @@
   "author": "unix <lambdas.dev@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js",
+    "release": "yarn build && yarn publish --access public --non-interactive"
   },
   "main": "dist/_catalog.json",
   "module": "dist/_catalog.json",

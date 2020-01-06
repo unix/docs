@@ -21,6 +21,6 @@ jobs:
       - name: install
         run: yarn install --check-files --frozen-lockfile
       - name: publish
-        run: yarn build
+        run: yarn release
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}

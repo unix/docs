@@ -1,6 +1,6 @@
 {
   "name": "docs-catalog",
-  "version": "0.0.2-canary.0",
+  "version": "0.0.2-canary.1",
   "repository": "git@github.com:unix/docs.git",
   "author": "unix <lambdas.dev@gmail.com>",
   "license": "MIT",

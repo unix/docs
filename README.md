@@ -1,6 +1,6 @@
 ## Docs
 
-Open source document helper.
+Open source documents helper.
 
 You can get it simply by using command-line tool.
 

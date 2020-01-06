@@ -11,10 +11,6 @@
   "main": "dist/_catalog.json",
   "module": "dist/_catalog.json",
   "unpkg": "dist/_catalog.json",
-  "files": [
-    "dist",
-    "README.md"
-  ],
   "devDependencies": {
     "@types/fs-extra": "^7.0.0",
     "fs-extra": "^8.0.1",

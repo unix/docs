@@ -1,8 +1,0 @@
-{
-  "files": [
-    "hooks",
-    "index",
-    "redux",
-    "router"
-  ]
-}

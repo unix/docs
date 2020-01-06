@@ -1,9 +1,0 @@
-{
-  "main": "https://router.vuejs.org/",
-  "repo": "https://github.com/vuejs/vue-router",
-  "demos": "https://github.com/vuejs/vue-router-demos/tree/master/examples",
-  "mattstauffer": "https://mattstauffer.com/blog/getting-started-using-vues-vue-router-for-single-page-apps/",
-  "hackernoon": "https://hackernoon.com/lets-build-a-custom-vue-js-router-7de634be87c4",
-  "flaviocopes blog": "https://flaviocopes.com/vue-router/",
-  "markus blog": "https://markus.oberlehner.net/blog/implementing-a-simple-middleware-with-vue-router/"
-}

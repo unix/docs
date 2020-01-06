@@ -2,8 +2,10 @@
   "main": "https://cli.vuejs.org/",
   "repo": "https://github.com/vuejs/vue",
   "demos": "https://github.com/vuejs/vue/tree/dev/examples",
-  "awesome": "https://github.com/vuejs/awesome-vue",
-  "jsx": "https://cn.vuejs.org/v2/guide/render-function.html",
+  "awesome-vue": "https://github.com/vuejs/awesome-vue",
+  "vue-cli": "https://cli.vuejs.org",
+  "vue-router": "https://router.vuejs.org",
+  "jsx for vue": "https://cn.vuejs.org/v2/guide/render-function.html",
   "learn-vue": "https://laracasts.com/series/learn-vue-2-step-by-step",
   "auth0 blog": "https://auth0.com/blog/vuejs2-authentication-tutorial/",
   "skyronic blog": "http://skyronic.com/blog/vue-project-scratch"

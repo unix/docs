@@ -1,8 +1,0 @@
-{
-  "main": "https://reactjs.org/docs/hooks-intro.html",
-  "api": "https://reactjs.org/docs/hooks-reference.html",
-  "medium blog": "https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8",
-  "getting started": "https://www.valentinog.com/blog/hooks/",
-  "how to use": "https://usehooks.com/",
-  "migrate to hooks": "https://www.robinwieruch.de/react-hooks-migration/"
-}

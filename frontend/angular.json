@@ -1,0 +1,12 @@
+{
+  "main": "https://angular.io/docs",
+  "repo": "https://github.com/angular/angular",
+  "angular blog": "https://blog.angular.io/",
+  "vedio guide": "https://scrimba.com/g/gyourfirstangularapp",
+  "about 8.0": "https://blog.ninja-squad.com/",
+  "router": "https://angular.io/guide/router",
+  "rxjs": "https://angular.io/guide/observables",
+  "http": "https://angular.io/guide/http",
+  "about interceptor": "https://angular.io/guide/http#intercepting-requests-and-responses",
+  "reactive-forms": "https://angular.io/guide/reactive-forms"
+}

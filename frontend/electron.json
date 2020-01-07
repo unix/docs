@@ -1,0 +1,5 @@
+{
+  "main": "https://electronjs.org/docs",
+  "repo": "https://github.com/electron/electron",
+  "builder": "https://github.com/electron-userland/electron-builder"
+}

@@ -1,0 +1,6 @@
+{
+  "main": "https://ruby-doc.org/",
+  "repo": "https://github.com/ruby/ruby",
+  "style guide": "https://github.com/airbnb/ruby",
+  "rails": "https://api.rubyonrails.org/"
+}

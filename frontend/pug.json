@@ -1,0 +1,5 @@
+{
+  "main": "https://pugjs.org/api/getting-started.html",
+  "repo": "https://github.com/pugjs/pug",
+  "pug-loader": "https://github.com/pugjs/pug-loader"
+}

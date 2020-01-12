@@ -1,0 +1,5 @@
+{
+  "main": "http://stylus-lang.com/",
+  "repo": "https://github.com/stylus/stylus/",
+  "stylus-loader": "https://github.com/shama/stylus-loader"
+}

@@ -1,0 +1,5 @@
+{
+  "main": "http://lesscss.org/usage/",
+  "repo": "https://github.com/less/less.js",
+  "less-loader": "https://github.com/webpack-contrib/less-loader"
+}

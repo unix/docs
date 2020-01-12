@@ -1,0 +1,4 @@
+{
+  "main": "https://sass-lang.com/documentation/syntax",
+  "sass-loader": "https://github.com/webpack-contrib/sass-loader"
+}
